@@ -1,0 +1,17 @@
+Message Generator
+
+Description: Generate a random inspirational message everytime a button is pressed.
+
+Features:
+- Generate inspirational message upon button press.
+- Will have a history button that shows previously shown messages.
+
+Message Format:
+   > I know you are feeling ${verb1} right now. Like an invisible force is ${verb2} you down. I'm here to tell you to be ${adjective1}. Things will get better. 
+ You are a lot ${adjective2} than you think you are. Keep ${verb3}! You can do this!
+
+ - verb1 = scared, tired, hopeless
+ - verb2 = pulling, dragging, bashing
+ - verb3 = fighting, pushing, believing
+ - adjective1 = strong, brave, resilient
+ - adjective2 = stronger, tougher, braver
